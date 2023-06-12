@@ -6,6 +6,7 @@ Welcome to Month 0 of the Learning Repository! In this month, you will cover var
 
 - [Git Basics](week-0): Learn the fundamentals of Git version control system.
 - Understand how to use GitHub for collaborative development.
+- Git learning and usage should be at the fingertips of every programmer
 
 ## Week 2: Introduction to Shell
 
