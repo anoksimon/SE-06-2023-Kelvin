@@ -1,48 +1,5 @@
-Question:
-	Display username, cohort and score. The cohort range should end at 14. the score should not be more that 170.
+Write A shell script that does the following:
 
-Thought process:
-
-	Step 1: display the username of the user
-		-ask for the name
-		-store the name
-
-	Step 2: display the cohort of the user
-		-ask for the cohort
-		-store the cohort
-
-		(goto step 4)
-
-	Step 3: display the scores of the user
-		-ask for the scores
-		-store the scores
-		
-		(goto step 5)
-
-
-	step 4: If the cohort inputed by the user is greater than 14:
-		- Print error.
-		If the cohort is lesser than 14:
-		- (goto step 3)
-
-
-	step 5: If the score inputed by the user is greater than 170:
-		- Print error.
-		If the cohort is lesser than 170:
-
-		(goto step 6)
-
-
-	step 6: Display username, cohort and scores of the user.
-
-
-		
-
-
-
-	1, 2, 3 have same code
-
-	4, 5 have same code
-
-	6 
-	
+1: Asks for the user name, cohort, score,
+2: If the score is less than 80, print out "You're Out"
+3: If score is greater than 80, print out "You're In"
