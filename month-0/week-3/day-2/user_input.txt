@@ -1,9 +1,0 @@
-Psuedocode:
-
-Step 1: Create a place where we store the name, age, score, and grade of the user {Variable}. 
-
-Step 2: Ask the user for name, age, score, and grade.
-
-Step 3: Store the name, age, score, and grade the user gives us.
-
-Step 4: Print the name, age, score, and grade we got from the user on the screen
