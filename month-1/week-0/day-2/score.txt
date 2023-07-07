@@ -1,0 +1,24 @@
+Implement a functionality that prints out username and checks for users cohort and scores. Determine their stay, promotion, defering, or deletion out of the program using the below metrics.
+
+
+If score > 150 for any cohort, promote the indiviual one cohort above the user cohort. Max cohort is 8.
+
+If score < 80 for cohort 18, defer the user.
+
+If score < 70 for any cohort defer the user.
+
+If score < 30 for any cohort except 8, delete the user.
+
+Min cohort is cohort 18.
+
+
+PSEUDOCODE
+
+Get username cohort and score.
+
+
+
+
+
+
+

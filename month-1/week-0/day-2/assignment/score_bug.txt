@@ -1,0 +1,3 @@
+Fix a bug from the score.c file found in the day-2 directory. The bug to fix is as follows:
+
+If a user not in cohort 8 scores less than 30, he should be removed. Not deffered.
