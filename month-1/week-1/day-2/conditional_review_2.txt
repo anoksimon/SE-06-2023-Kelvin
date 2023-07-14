@@ -1,0 +1,10 @@
+Write a C program to calculate profit or loss.
+Write down your thought process for your solution.
+Write the answer in a task5.c in the answer folder.
+
+
+Psedocode:
+
+Step 1: Get the user cost price and selling price
+
+Step 2: Write conditionals to dertermine if user got profit or loss
