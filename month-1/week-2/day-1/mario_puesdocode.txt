@@ -1,0 +1,26 @@
+Step 1: Prompt for input for values between 1 and 8 .
+Step 2: If the input recieved from the user is not between 1 - 8, repeat step1.
+
+
+
+Code:
+
+
+#include <stdio.h>
+
+
+int main()
+{
+    int values;
+
+
+    printf("Enter values between 1 - 8: ");
+    scanf("%d", &values);
+
+    if (value < 1 && values > 8)
+    {
+          printf("Enter values between 1 - 8: ");
+        scanf("%d", &values);
+    }
+
+}
