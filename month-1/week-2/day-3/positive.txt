@@ -1,0 +1,23 @@
+Write a program to print all positive numbers from 1 - n. (2 min)
+
+
+n - unknown = user input
+
+
+positive numbers from 1 - whatever the user inputs.
+
+
+posittve numbers? = 100
+
+
+1 - 100
+
+Write a program to print all positive numbers from 1 - n.
+
+
+do while.
+
+while. 1, 2, 3, 4
+
+for. 1, 2, 3, 4
+~                   
