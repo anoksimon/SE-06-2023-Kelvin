@@ -1,0 +1,12 @@
+Write a program to print out multiplication tables from 1 -  20 for a given number.
+
+
+
+eg:
+
+3:
+
+3 * 1 = 3
+3 * 2 = 6
+...
+3 * 20 = 60
